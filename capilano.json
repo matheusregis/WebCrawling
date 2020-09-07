@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "program": "North American Business Post Baccalaureate Diploma",
+    "values": "$26,405.00",
+    "institution": "Capilano University",
+    "city": "Vancouver"
+  },
+  {
+    "id": 2,
+    "program": "North American Business Post Baccalaureate Applied Diploma",
+    "values": "$32,315.00",
+    "institution": "Capilano University",
+    "city": "Vancouver"
+  },
+  {
+    "id": 3,
+    "program": "North America &amp; International Management Graduate Diploma",
+    "values": "$50,050.00",
+    "institution": "Capilano University",
+    "city": "Vancouver"
+  },
+  {
+    "id": 4,
+    "program": "International Management Graduate Diploma",
+    "values": "$24,440.00",
+    "institution": "Capilano University",
+    "city": "Vancouver"
+  }
+]

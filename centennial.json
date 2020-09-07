@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "program": "Post-secondary Programs",
+    "values": {
+      "0": {
+        "values": "$14,937.50"
+      },
+      "1": {
+        "values": "$14,720.00"
+      },
+      "2": {
+        "values": "$14,291.00"
+      }
+    },
+    "institution": "Centennial College",
+    "city": "Toronto"
+  },
+  {
+    "id": 2,
+    "program": "School of Engineering Technology and Applied Science &amp; School of Transportation Post-secondary Programs",
+    "values": {
+      "0": {
+        "values": "$15,900.00"
+      },
+      "1": {
+        "values": "$15,669.00"
+      },
+      "2": {
+        "values": "$15,213.00"
+      }
+    },
+    "institution": "Centennial College",
+    "city": "Toronto"
+  },
+  {
+    "id": 3,
+    "program": "Applied Information Technology (Computer and Communication Networks) Honours Degree Program",
+    "values": {
+      "0": {
+        "values": "$18,917.00"
+      },
+      "1": {
+        "values": "$18,917.00"
+      },
+      "2": {
+        "values": "$18,641.50"
+      },
+      "3": {
+        "values": "$18,641.50"
+      }
+    },
+    "institution": "Centennial College",
+    "city": "Toronto"
+  },
+  {
+    "id": 4,
+    "program": "Public Relations Management Honours Degree Program",
+    "values": {
+      "0": {
+        "values": "$17,981.50"
+      },
+      "1": {
+        "values": "$17,981.50"
+      },
+      "2": {
+        "values": "$17,719.50"
+      },
+      "3": {
+        "values": "$17,719.50"
+      }
+    },
+    "institution": "Centennial College",
+    "city": "Toronto"
+  },
+  {
+    "id": 5,
+    "program": "Bachelor of Science in Nursing (BScN)",
+    "values": {
+      "0": {
+        "values": "$28,350.00"
+      },
+      "1": {
+        "values": "$28,350.00"
+      }
+    },
+    "institution": "Centennial College",
+    "city": "Toronto"
+  }
+]
