@@ -1,0 +1,19 @@
+{
+  "name": "oneimmigration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/institutions/crawlers.js && node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sucrase": "^3.15.0"
+  },
+  "repository": "https://github.com/matheusregis/WebCrawling.git",
+  "author": "Matheus Régis <matheustrai@gmail.com>"
+}
